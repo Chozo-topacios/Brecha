@@ -24,7 +24,7 @@ Además: detector de jerga en la portada, biblioteca para guardar, copiar e impr
 
 ## Publicarla
 1. En GitHub: **Settings → Pages → Source: GitHub Actions** (una sola vez).
-2. Cada cambio en `main` publica la app en `https://<tu-usuario>.github.io/brecha/`.
+2. Cada cambio en `main` publica la app en `https://<tu-usuario>.github.io/Brecha/`.
 3. Para instalarla: en iPhone/iPad (Safari) *Compartir → Añadir a pantalla de inicio*; en Chrome, el ícono de instalar en la barra de direcciones.
 
 ## Desarrollo
